@@ -73,7 +73,7 @@ typings/
 .serverless
 
 # Environment files
-.env
+# .env
 .env.dev
 .env.development
 .env.development.local
